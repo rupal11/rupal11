@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="images/banner.jpg">
+<img src="images/banner.jpg" alt="Hello I am Rupal Das">
 
 - 🌱 I’m currently learning web development💻.
 - 👯 I’m looking to collaborate on projects based on web development🙂.
