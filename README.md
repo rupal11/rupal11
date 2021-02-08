@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning web development💻.
 - 👯 I’m looking to collaborate on projects based on web development🙂.
-- 📫 How to reach me **rupaldas2001@gmail.com**
 - 😄 Pronouns: She/Her.
 
 
