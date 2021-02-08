@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **rupal11/rupal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,18 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="banner.jpg">
 
+<img src="images/banner.jpg">
 
 - 🌱 I’m currently learning web development💻.
 - 👯 I’m looking to collaborate on projects based on web development🙂.
 - 📫 How to reach me **rupaldas2001@gmail.com**
 - 😄 Pronouns: She/Her.
 
+<img src="images/qoute.png">
 
-<div style="background-color:#afbfff;">
-  Reality lives a lot to imagination.
-  </div>
+<img align="right" alt="Coding" width="400" src="images/girlWithLaptop.jpg" style="max-width:100%;">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
