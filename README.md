@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/dasrupal" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/dasrupal" height="30" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/dasrupal" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="www.linkedin.com/in/dasrupal" height="30" /></a>
 </p>
 
 
